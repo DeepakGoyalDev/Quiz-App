@@ -1,0 +1,39 @@
+.question-container{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 14px;
+    width: 80%; 
+    margin: 30px auto;
+    min-height: 50%;
+    padding: 10px;
+}
+.strip{
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 14px;
+    background-color: white;
+    margin: 10px auto;
+}
+.strip p{
+    text-align: center;
+    font-size: 18px;
+}
+.explanation{
+    width: 100%;
+}
+.explanation p{
+    font-size: 18px;
+}
+.correct{
+    background-color: #90E9A9;;
+}
+.incorrect{
+    background-color: #F57F7F;
+}
+.result{
+    width: 80%;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #F6C6EA;
+    border-radius: 12px;    
+}
